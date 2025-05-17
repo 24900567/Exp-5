@@ -7,6 +7,8 @@
 To draw the UML diagram for Student Course Enrollment System.
 
 # SRS (Procedure):
+To create Student Enrollment System software that will meet the needs of the applicant and help them with student registration, course enrollment, modification in the database, and cancellation of registered courses or enrollment records.
+
 
 
 List of Programs:
